@@ -2,6 +2,11 @@
 🚀 **REPLICATED & BLUEPRINT-ONLY** 🚀  
 *(Fully Networked - No C++ Required!)*  
 
+### Acknowledgements  
+This Inventory Component is based on concepts and tutorials by [Native Coder](https://www.youtube.com/@nativecoder), whose work inspired the creation of this basic component.  
+
+Check out their YouTube channel for more helpful Unreal Engine content!  
+
 ## About This Component  
 This is a **modular Inventory Component** implemented entirely in Blueprints.  
 
@@ -50,9 +55,3 @@ This is a **modular Inventory Component** implemented entirely in Blueprints.
 - Additional modular features and improvements  
 
 Feedback and contributions are welcome!  
-
-
-### Acknowledgements  
-This Inventory Component is based on concepts and tutorials by [Native Coder](https://www.youtube.com/@nativecoder), whose work inspired the creation of this basic component.  
-
-Check out their YouTube channel for more helpful Unreal Engine content!  
